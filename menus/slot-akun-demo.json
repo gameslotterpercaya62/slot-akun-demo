@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-akun-demo",
+        "command": "slot-akun-demo:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-akun-demo",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-akun-demo:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

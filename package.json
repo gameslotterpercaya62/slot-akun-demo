@@ -1,0 +1,18 @@
+{
+  "name": "slot-akun-demo",
+  "main": "./lib/slot-akun-demo",
+  "version": "1.0.0",
+  "description": "Rekomendasi Daftar Rumus Putaran Slot Akun Demo Terlengkap Nih",
+  "keywords": ["slot online cq9","agen toto play","slot online cq9","cq9 slot online","toptrend gaming","situs judi slot online","agen toto play slot"],
+
+  "activationCommands": {
+    "atom-workspace": "slot-akun-demo:toggle"
+  },
+  "repository": "https://github.com/gameslotterpercaya62/slot-akun-demo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
